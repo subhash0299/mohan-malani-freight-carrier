@@ -15,27 +15,27 @@ const offices: Office[] = [
     address: "47 Khanna Market, Tis Hazari, Delhi - 110054",
     contacts: ["9717171548", "9929001529"],
     gstin: "07BBCPB8367D1ZV",
-    mapsUrl: "https://maps.google.com/?q=47+Khanna+Market,+Tis+Hazari,+Delhi+-+110054"
+    mapsUrl: "https://www.google.com/maps?q=28.6640796661377,77.2171096801758"
   },
   {
     city: "Libaspur (Branch Office)",
     address: "66 Feet Road, Bharat Property Ke Pass, Libaspur",
     contacts: ["9811931290", "8178203560"],
-    mapsUrl: "https://maps.google.com/?q=66+Feet+Road,+Bharat+Property+Ke+Pass,+Libaspur"
+    mapsUrl: "https://www.google.com/maps/place/66+Feet+Road,+Bharat+Property+Ke+Pass,+Libaspur"
   },
   {
     city: "Jodhpur",
     address: "Bhut Oil Mill, 3 Heavy Industrial Area, Opp. Marwar Tent, Near Kunkundeep Garden, Jodhpur - 342001 (Raj.)",
     contacts: ["9509227337", "7690015042", "9829328620", "8302830697"],
     gstin: "08BBCPB8367D1ZT",
-    mapsUrl: "https://maps.google.com/?q=Bhut+Oil+Mill,+3+Heavy+Industrial+Area,+Opp.+Marwar+Tent,+Near+Kunkundeep+Garden,+Jodhpur+-+342001"
+    mapsUrl: "https://www.google.com/maps?q=26.2557029724121,73.0075149536133"
   },
   {
     city: "Ahmedabad",
     address: "A/2 Bansidhar Estate Opp. Patel Metals, O/s. Dariyapur Gate, Bardolpura, Ahmedabad",
     contacts: ["9929041529", "9329251419", "9327096031", "9904771701"],
     gstin: "08BBCPB8367D1ZT",
-    mapsUrl: "https://maps.google.com/?q=A/2+Bansidhar+Estate+Opp.+Patel+Metals,+O/s.+Dariyapur+Gate,+Bardolpura,+Ahmedabad"
+    mapsUrl: "https://www.google.com/maps/place/A/2+Bansidhar+Estate+Opp.+Patel+Metals,+O/s.+Dariyapur+Gate,+Bardolpura,+Ahmedabad"
   }
 ];
 
@@ -120,10 +120,10 @@ function App() {
                       target="_blank"
                       rel="noopener noreferrer"
                       className="inline-flex items-center px-3 py-2 bg-green-100 hover:bg-green-200 text-green-800 rounded-lg transition-colors duration-200 text-sm font-medium flex-shrink-0"
-                      title="Open in Maps"
+                      title="View Location"
                     >
                       <MapPin className="h-4 w-4 mr-1" />
-                      Open in Maps
+                      View Location
                     </a>
                   </div>
                   {office.gstin && (
