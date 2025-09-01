@@ -69,11 +69,11 @@ function App() {
   <div className="space-y-3 text-xl md:text-2xl font-bold text-gray-800">
     <p>
       Delhi - <span className="text-2xl">+91 97171 71548</span>
-      <span className="ml-8 text-2xl">GSTNO - 07BBCPB8367D1ZV</span>
+      <span className="ml-8 text-2xl text-red-600">GSTNO - 07BBCPB8367D1ZV</span>
     </p>
     <p>
       Jodhpur - <span className="text-2xl">+91 95092 27337</span>
-      <span className="ml-8 text-2xl">GSTNO - 08BBCPB8367D1ZT</span>
+      <span className="ml-8 text-2xl text-red-600">GSTNO - 08BBCPB8367D1ZT</span>
     </p>
   </div>
 </div>
