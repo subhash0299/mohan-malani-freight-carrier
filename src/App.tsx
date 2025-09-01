@@ -127,7 +127,7 @@ function App() {
                     </a>
                   </div>
                   {office.gstin && (
-                    <p className="text-sm text-blue-600 font-medium mt-2">
+                    <p className="text-sm text-red-600 font-medium mt-2">
                       GSTIN: {office.gstin}
                     </p>
                   )}
