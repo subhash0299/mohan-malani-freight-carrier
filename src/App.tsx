@@ -216,17 +216,17 @@ function App() {
           <div className="prose max-w-none">
             <h2 className="text-xl font-bold text-gray-900 mb-4">About Mohan Malani Freight Carrier</h2>
             <p className="text-gray-700 leading-relaxed mb-4">
-              Mohan Malani Freight Carrier is a trusted name in the freight and logistics industry, 
-              serving customers across India with reliable transportation solutions. With strategic 
-              office locations in Delhi, Jodhpur, Libaspur, Ahmedabad, and Rajkot, we ensure 
-              comprehensive coverage for all your cargo needs.
+              Mohan Malani Freight Carrier, popularly known as Malani Transport, is a trusted name in the Indian transport and logistics sector. For decades, we have specialized in providing reliable freight and logistics services in India, connecting major cities such as Delhi, Jodhpur, Ahmedabad, Rajkot, and Libaspur. Our mission is simple — to deliver goods safely, on time, and with complete professionalism.
             </p>
-            <p className="text-gray-700 leading-relaxed">
-              Whether you're looking for "malani freight" services or need to contact "mohan malani carrier" 
-              for your transportation requirements, our experienced team is ready to assist you. 
-              We pride ourselves on timely delivery, safe handling, and competitive pricing across 
-              all our service locations.
+            <p className="text-gray-700 leading-relaxed mb-4">
+              As one of the most recognized names in the industry, Mohan Malani Freight Carrier has built a reputation for excellence and customer satisfaction. Many customers also search for us as Mohan Malani Transport, and we are proud to be associated with reliability, speed, and transparent service. Whether you are a small business owner, a manufacturer, or a distributor, our strong transport network ensures smooth cargo movement across northern and western India.
             </p>
+            <p className="text-gray-700 leading-relaxed mb-4">
+              Our headquarters in Delhi serves as a central hub, making transport from Delhi to Jodhpur, Ahmedabad, and Rajkot highly efficient. With dedicated fleets, trained drivers, and 24/7 customer support, we ensure that every delivery is handled with care. From small consignments to full truckloads, Malani Transport is equipped to handle it all.            </p>
+            <p className="text-gray-700 leading-relaxed mb-4">
+              We believe logistics is not just about moving goods — it’s about building trust. Over the years, Mohan Malani Freight Carrier has become the first choice for businesses seeking dependable freight and logistics services in India. Our long-standing clients trust us for consistency, affordable rates, and a customer-first approach.            </p>
+            <p className="text-gray-700 leading-relaxed mb-4">
+              So, whether you are searching for Malani Transport Delhi, Mohan Malani Jodhpur services, or reliable freight carriers in Ahmedabad and Rajkot, we are here to serve you. At Mohan Malani Freight Carrier, your business is our responsibility, and your success is our destination            </p>
           </div>
         </div>
       </main>
