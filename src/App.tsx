@@ -13,7 +13,7 @@ const offices: Office[] = [
   {
     city: "Delhi (Head Office)",
     address: "47 Khanna Market, Tis Hazari, Delhi - 110054",
-    contacts: ["9717171548", "9929001529"],
+    contacts: ["73572 91529", "9929001529"],
     gstin: "07BBCPB8367D1ZV",
     mapsUrl: "https://www.google.com/maps?q=28.6640796661377,77.2171096801758"
   },
@@ -197,7 +197,7 @@ function App() {
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 max-w-4xl mx-auto">
               <div className="bg-white/10 rounded-lg p-4 backdrop-blur-sm">
                 <p className="font-semibold">Delhi Head Office</p>
-                <p className="text-sm opacity-90">9717171548</p>
+                <p className="text-sm opacity-90">73572 91529</p>
               </div>
               <div className="bg-white/10 rounded-lg p-4 backdrop-blur-sm">
                 <p className="font-semibold">Jodhpur Office</p>
