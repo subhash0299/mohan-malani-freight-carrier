@@ -13,7 +13,7 @@ const offices: Office[] = [
   {
     city: "Delhi (Head Office)",
     address: "47 Khanna Market, Tis Hazari, Delhi - 110054",
-    contacts: ["73572 91529", "9929001529"],
+    contacts: ["7357291529", "9929001529"],
     gstin: "07BBCPB8367D1ZV",
     mapsUrl: "https://www.google.com/maps?q=28.6640796661377,77.2171096801758"
   },
@@ -68,7 +68,7 @@ function App() {
   </h1>
   <div className="space-y-3 text-xl md:text-2xl font-bold text-gray-800">
     <p>
-      Delhi - <span className="text-2xl">+91 97171 71548</span>
+      Delhi - <span className="text-2xl">+91 73572 91529</span>
       <span className="ml-8 text-2xl text-red-600">GSTNO - 07BBCPB8367D1ZV</span>
     </p>
     <p>
