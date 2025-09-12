@@ -66,15 +66,23 @@ function App() {
   <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
     MOHAN MALANI FREIGHT CARRIER
   </h1>
-  <div className="space-y-3 text-xl md:text-2xl font-bold text-gray-800">
-    <p>
-      Delhi - <span className="text-2xl">+91 73572 91529</span>
-      <span className="ml-8 text-2xl text-red-600">GSTNO - 07BBCPB8367D1ZV</span>
-    </p>
-    <p>
-      Jodhpur - <span className="text-2xl">+91 95092 27337</span>
-      <span className="ml-8 text-2xl text-red-600">GSTNO - 08BBCPB8367D1ZT</span>
-    </p>
+  <div className="space-y-4 text-xl md:text-2xl font-bold text-gray-800">
+    <div className="flex flex-col items-center md:flex-row md:justify-center md:space-x-8">
+      <span>
+        Delhi - <span className="text-2xl">+91 73572 91529</span>
+      </span>
+      <span className="text-2xl text-red-600 mt-2 md:mt-0">
+        GSTNO - 07BBCPB8367D1ZV
+      </span>
+    </div>
+    <div className="flex flex-col items-center md:flex-row md:justify-center md:space-x-8">
+      <span>
+        Jodhpur - <span className="text-2xl">+91 95092 27337</span>
+      </span>
+      <span className="text-2xl text-red-600 mt-2 md:mt-0">
+        GSTNO - 08BBCPB8367D1ZT
+      </span>
+    </div>
   </div>
 </div>
 
